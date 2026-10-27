@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Josh 👋
 
-<!--
-**joshuamalonda/joshuamalonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in B2B SaaS sales, I’m interested in understanding customer problems and building tools that help solve them. Alongside my role, I’m learning Python and AWS cloud fundamentals.
 
-Here are some ideas to get you started:
+### What I’ve built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An AI maintenance workflow that captures phone and WhatsApp enquiries using AI voice agents, creates cases in a dashboard and sends SMS updates. I connected voice and messaging services through APIs and webhooks, using Telnyx, Eleven Labs, Meta Business Agent, Lovable and Supabase for the application.
+
+### What I’m working on
+
+- Writing and understanding my own Python code.
+- Learning cloud infrastructure and deployment.
+- Building practical experience with APIs and integrations.
+
